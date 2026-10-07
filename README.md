@@ -1,2 +1,2 @@
-# intercom-teacher-app
-Teacher mobile application for the Intercom school communication platform.
+# Entacom-teacher-app
+Teacher mobile application for the Entacom school communication platform.
